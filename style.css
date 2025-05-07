@@ -331,9 +331,9 @@ header .navbar{
 }
 .contect-section .section-contect{
     display: flex;
-    gap: 48px;
+    /* gap: 48px; */
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .contect-section .contect-info-list .contect-info{
